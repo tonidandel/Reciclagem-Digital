@@ -1,0 +1,111 @@
+http://linuxeducacional.c3sl.ufpr.br/LE4/versao.html
+
+Sobre o Linux Educacional 4
+Características Técnicas:
+
+    Baseado no Kubuntu 10.04
+    Suporte de Idiomas: Português
+    Núcleo do Sistema: Linux Ubuntu 2.6.32-30-generic
+    Ambiente Gráfico: KDE 4.4.5
+
+Sobre o Linux Educacional 4
+Características Técnicas:
+
+    Baseado no Kubuntu 10.04
+    Suporte de Idiomas: Português
+    Núcleo do Sistema: Linux Ubuntu 2.6.32-30-generic
+    Ambiente Gráfico: KDE 4.4.5
+
+        Programas Instalados
+        Ferramentas Educacionais
+            Edubar (acesso direto aos Conteúdos Educacionais e portais do MEC)
+            FBEdu (Buscar Conteúdos Educacionais)
+        Programas Educacionais
+            Aprender o Alfabeto (Klettres)
+            Calculadora Gráfica (Kalgebra)
+            Desenho (Tux Paint)
+            Desenho de funções matemáticas (KmPlot)
+            Exercícios com frações (Kbruch)
+            Ferramenta de Referência/Estudo do Japonês (Kiten)
+            Geometria Dinâmica (GeoGebra)
+            Geometria Interativa (Kig)
+            Globo na área de trabalho (Marble)
+            Jogo da Forca (KHangMan)
+            Jogo de Ordenação de Letras (Kanagram)
+            Jogo Simon Diz (Blinken)
+            Linguagem de Programação (Squeak)
+            Linguagem Logo (Kturtle)
+            Planetário Virtual (Kstarts)
+            Série Educacional (Gcompris)
+            Simulador físico interativo (Step)
+            Software matemático (Cantor)
+            Tabela Periódica dos Elementos (Kalzium)
+            Teoria dos Grafos de Rocs
+            Treinador de Vocabulário (KwordQuiz)
+            Treinador de Vocabulário (Parley)
+            Treinamento em Geografia (Kgeography)
+        Ferramentas de Produtividade
+            LibreOffice 3.4
+            Banco de Dados (Base)
+            Editor de Apresentação (Impress)
+            Editor de Desenho (Draw)
+            Editor de Planilha (Calc)
+            Editor de Texto (Writer)
+            Gerência de Projetos (Planner)
+            Recurso para anotações (Xournal)
+            Visualizador de Arquivos PDF (Okular)
+        Gráficos
+            Editor de Imagens (GIMP)
+            Editor de Imagens Vetoriais (Inkscape)
+            Editor de PDF (PDF Editor)
+            Gerenciador de Fotos (digikam)
+            Manipulador de Animações (Muan)
+            Programa de Captura de Tela (Ksnapshot)
+            Programa de Pintura (KolourPaint)
+            Visualizador de Imagens (Gwenview)
+        Internet
+            MSN Messenger para Linux (aMSN)
+            Navegador Web (Mozila Firefox)
+            Navegador Web (Konqueror)
+        Multimídia
+            Editor de Áudio (Audacity)
+            Editor de Vídeo (Avidemux)
+            Editor de Vídeo (Kdenlive)
+            Editor de Vídeo (Kino)
+            Extrair DVD (AcidRip DVD Ripper)
+            Gravação de CD/DVD (K3b)
+            Mixagem de Som (Kmix)
+            Multimedia Converter
+            Reprodutor de Áudio (Amarok)
+            Reprodutor Multimídia (VLC media player)
+            Wecam (XawTV)
+        Utilitários
+            Ampliador de Tela (Kmag)
+            Bloco de Notas (Kate)
+            Calculadora (SpeedCrunch)
+            Compactador de Arquivos (Ark)
+            Digitalização de Documentos (Xsane)
+            Histórico da Área de Transferência (Klipper)
+            Procurar arquivos ou pastas
+            Tutorial para Digitação (Klavaro)
+            Tutorial para Digitação (KTouch)
+        Sistema
+            Adicionar e Remover Programas (Adept)
+            Kbluetooth
+            Editor de Partição (GParted)
+            Ferramenta de Backup (APTonCD)
+            Gerenciador de Arquivos (Modo Super Usuário)
+            Gerenciador de Impressão (tarefas de Impressão)
+            Gerenciador de Usuários (Kuser)
+            Gerenciar Processos (KsysGuard)
+            Visualizador de Logs do sistema (KsystemLog)
+
+Conteúdos Educacionais
+
+Visando facilitar o acesso aos conteúdos educacionais, o MEC disponibiliza um repositório Debian de conteúdos que compreendem 3.692 obras do Portal Domínio Público, 545 vídeos da TV Escola, 569 sugestões de aulas do Portal do Professor e uma coleção de conteúdos de Química. Estes conteúdos já estão presentes na instalação dos computadores entregues pelo PROINFO para as escolas públicas. Desta forma, nas escolas onde não há acesso à internet, o acesso a uma parte do acervo está garantido.
+
+Para buscar e ter acesso aos conteúdos do MEC quando estão instalados no disco local, basta abrir a Ferramenta de Busca e clicar no botão Buscar Conteúdos da Edubar. A Ferramenta de Busca permite buscar o conteúdo por fonte de interesse (“Domínio Público”, “TV Escola” ou “Portal do Professor”).
+
+Para orientações de como baixar os conteúdos educacionais do repositório Debian, mantido pelo MEC, consulte o Manual do Usuário disponível em Manuais. 
+
+
