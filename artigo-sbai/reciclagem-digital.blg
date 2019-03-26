@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: reciclagem-digital.aux
+The style file: dcu.bst
+Database file #1: exemplo.bib
+You've used 7 entries,
+            2921 wiz_defined-function locations,
+            669 strings with 5358 characters,
+and the built_in function-call counts, 19109 in all, are:
+= -- 3051
+> -- 237
+< -- 0
++ -- 1399
+- -- 70
+* -- 1521
+:= -- 4062
+add.period$ -- 15
+call.type$ -- 7
+change.case$ -- 93
+chr.to.int$ -- 7
+cite$ -- 7
+duplicate$ -- 98
+empty$ -- 186
+format.name$ -- 96
+if$ -- 3395
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 32
+num.names$ -- 70
+pop$ -- 47
+preamble$ -- 1
+purify$ -- 105
+quote$ -- 0
+skip$ -- 65
+stack$ -- 0
+substring$ -- 4165
+swap$ -- 6
+text.length$ -- 98
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 147
+width$ -- 0
+write$ -- 96
