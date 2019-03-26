@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.1.30)  26 MAR 2019 13:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.1.30)  26 MAR 2019 14:54
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -282,14 +282,16 @@ File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 
 
 ]
-(./reciclagem-digital.bbl) [2] (./reciclagem-digital.aux) ) 
+(./reciclagem-digital.bbl) [2
+
+] (./reciclagem-digital.aux) ) 
 Here is how much of TeX's memory you used:
  2666 strings out of 494790
  34096 string characters out of 6177390
- 106070 words of memory out of 5000000
+ 108070 words of memory out of 5000000
  5949 multiletter control sequences out of 15000+600000
  24928 words of font info for 42 fonts, out of 8000000 for 9000
  83 hyphenation exceptions out of 8191
  32i,8n,29p,1534b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on reciclagem-digital.dvi (2 pages, 11472 bytes).
+Output written on reciclagem-digital.dvi (2 pages, 10308 bytes).
